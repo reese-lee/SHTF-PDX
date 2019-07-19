@@ -11,7 +11,7 @@ _A web program for users to view earthquake dangers in the Portland-metro area. 
 ## Specs
 
 _Below is a component tree showing the basic UI structure._
-[tree]: https://github.com/reese-lee/SHTF-PDX/raw/master/src/common/images/comptree.svg "Component Tree"
+[tree]: https://github.com/reese-lee/SHTF-PDX/raw/master/comptree.svg "Component Tree"
 
 ## Setup/Installation Requirements
 
