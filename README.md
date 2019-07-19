@@ -8,6 +8,11 @@
 
 _A web program for users to view earthquake dangers in the Portland-metro area. It includes checklists for bug-out bags, food supplies, and more. It includes a map of potentially hardest-hit areas, and safe areas to evacuate to._
 
+## Specs
+
+_Below is a component tree showing the basic UI structure._
+[tree]: https://github.com/reese-lee/SHTF-PDX/raw/master/src/common/images/comptree.svg "Component Tree"
+
 ## Setup/Installation Requirements
 
 _To clone and launch the application:_
@@ -20,7 +25,7 @@ _To clone and launch the application:_
 
 ## Known Bugs
 
-_ 
+_
 
 ## Support and contact details
 
