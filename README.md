@@ -9,6 +9,9 @@
 _A web program for users to view earthquake dangers in the Portland-metro area. It includes checklists for bug-out bags, food supplies, and more. It includes a map of potentially hardest-hit areas, and safe areas to evacuate to._
 
 ## Specs
+_The original capstone project proposal:_
+![proposal](https://github.com/reese-lee/SHTF-PDX/blob/master/proposal.svg "Component Tree")
+
 
 _Below is a component tree showing the basic UI structure._
 ![tree](https://github.com/reese-lee/SHTF-PDX/blob/master/comptree.svg "Component Tree")
@@ -17,7 +20,7 @@ _Below is a component tree showing the basic UI structure._
 
 _To clone and launch the application:_
 
-* _Clone from GitHub
+* _Clone from GitHub_
 * _$cd SHTF-PDX_
 * _$dotnet restore to install packages from the .csproj file_
 * _$dotnet run to start the application_
