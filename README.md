@@ -16,12 +16,8 @@ _The original capstone project proposal:_
 _Below is a component tree showing the basic UI structure._
 ![tree](https://github.com/reese-lee/SHTF-PDX/blob/master/comptree.svg "Component Tree")
 
-_Mock of splash screen:_
-![splash](https://github.com/reese-lee/SHTF-PDX/blob/master/SHTFMap01.jpg "Splash screen mock")
-
-_Mock of map page:_
-![tree](https://github.com/reese-lee/SHTF-PDX/blob/master/SHTFSplash01.jpg "Map page mock")
-
+_Mock ups of splash screen and maps page:_
+![tree](https://github.com/reese-lee/SHTF-PDX/blob/master/mockups.png "Map page mock")
 
 ## Setup/Installation Requirements
 
